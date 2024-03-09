@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+COLOUR PLATES
+White- #FFFFFF
+       #F3F6F6
+       #E2EAE9
+       #17A1FA
+Green- #1270B0 
+*/
+/*Login*/
+#log-card
+{
+    background: linear-gradient(176deg, rgba(18,112,176,1) 0%, rgba(23,161,250,1) 100%);
+}
+#container-log
+{
+    background-color: #ffffff;
+    background-image: url(/Images//Patten-ll-blue-l.png);
+    background-size:cover;
+}
+.text
+{
+    color: #1270B0;
+    font-size: 50px;
+    font-weight: 500;
+}
+#placeholder
+{
+    background-color: #E2EAE9;
+    color: #13364e;
+    border-style: hidden;
+    padding-left: 40px;
+    font-weight:500;
+}
+#lable
+{
+    font-size: 22px;
+    font-weight: bolder;
+}
+#button
+{
+    background-color: #17A1FA;
+    border-style: hidden;
+    font-size: 18px;
+    font-weight: bolder;
+}
+#button:hover
+{
+    background-color: #1270B0;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+
+#full-with 
+{
+    background: #1270B0;
+    
+}
+#c-1
+{
+    height: max-content;
+    background-image: url(/Images/bg.png);
+    background-size: cover;
+}
+#c-2
+{
+    height:fit-content;
+    background-image: linear-gradient(to right, #1270B0 , #33AFFF);
+}
+.nav-link
+{
+    color: #ffffff;
+}
+.nav-link:hover
+{
+    color: #ffffff;
+    background: #33AFFF;
+}
+#sidenav
+{
+    background-color: #33AFFF;
+}
+#sidenav:hover
+{
+    background-color: #13364e9e;
+    font-weight: 500;
+}
+#sidena
+{
+    background-color: #13364e;
+}
+#sub-2
+{
+    background-color: #1270B0;
+    width:100%;
+    height:78%;
+}
+#sub-3
+{
+    background-color: #1270B0;
+    width:100%;
+    height:62%;
+}
